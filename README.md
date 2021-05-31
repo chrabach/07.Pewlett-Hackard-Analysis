@@ -65,7 +65,7 @@ The query depicted in Figure 3aB generated this value, and is simply the sum of 
 
 ### Mentorship Opportunities
 
-There are more than enough retirement ready employees prepared to mentor the next generation of leaders.  The problem will be that there are not enough of the next generation of leaders to replace the outgoing retirees.  Figures 3bA-C build the query set, culminating in 3bD, which shows that the mentorship eligible employees are generally only about 2% of retiring employees, a number that is consistent across titles, and indeed, across the company population as a whole.
+
 
 ![Fig3bA Mentorship Titles](other_resources/3bA_mentorship_titles.png)
 [Fig3bA: Total Retiring Employees](other_resources/3bA_mentorship_titles.png?raw=true "Figure 3bA: Mentorship Eligibility")
@@ -82,3 +82,7 @@ There are more than enough retirement ready employees prepared to mentor the nex
 
 ![Fig3bD Retirement v Mentorship by Title](other_resources/3bD_retirement_v_mentorship_by_title.png)
 [Fig3bD: Retirement v Mentorship by Title](other_resources/3bD_retirement_v_mentorship_by_title.png?raw=true "Figure 3bD: Retirement v Mentorship by Title")
+
+
+There are more than enough retirement ready employees prepared to mentor the next generation of leaders.  The problem will be that there are not enough of the next generation of leaders to replace the outgoing retirees.  Figures 3bA-C build the query set, culminating in 3bD, which shows that the mentorship eligible employees are generally only about 2% of retiring employees, a number that is consistent across titles, and indeed, across the company population as a whole.
+
