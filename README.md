@@ -1,4 +1,4 @@
-# Pewlett- Hackard Analysis
+# Pewlett-Hackard Analysis
 ## Resources
 pgAdmin 4 (Python: 3.8.3, Flask: 1.1.4), PostgreSQL 12.7
 
