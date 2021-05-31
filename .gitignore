@@ -1,6 +1,8 @@
 
 #My own files to ignore
-
+Assignment 7.docx
+Employee_Challenge_starter_code.sql
+#Employee_Database_challenge_extra_queries.sql
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
