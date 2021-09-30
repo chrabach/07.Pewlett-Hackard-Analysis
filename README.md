@@ -15,6 +15,7 @@ In anticipation of the “silver tsunami” of baby boomer retirements, Pewlett 
 
 
 ![Fig1a: Retirement Titles](other_resources/1a_retirement_titles.png)
+
 [Fig1a: Retirement Titles](other_resources/1a_retirement_titles.png?raw=true "Figure 1a: Retirement Titles")
 
 
@@ -22,12 +23,14 @@ In anticipation of the “silver tsunami” of baby boomer retirements, Pewlett 
 
 
 ![Fig1b](other_resources/1b_unique_titles.png)
+
 [Fig1b: Retirement Titles](other_resources/1b_unique_titles.png?raw=true "Figure 1b: Unique Titles")
 
 - The query depicted in Figure 1b removes those duplicative titles, and only displays the latest title, implying it will be the retirement title.  With 90,398 results returned, there are 1.5x more titles than employees, implying on average every other employee was promoted during the course of their respective careers at Pewlitt Hackard.
 
 
 ![Fig1c](other_resources/1c_retiring_titles.png)
+
 [Fig1c: Retirement Titles](other_resources/1c_retiring_titles.png?raw=true "Figure 1c: Retiring Titles")
 
 
@@ -41,6 +44,7 @@ In anticipation of the “silver tsunami” of baby boomer retirements, Pewlett 
 
 
 ![Fig2](other_resources/2_mentorship_eligibility.png)
+
 [Fig2: Mentorship Eligibility](other_resources/2_mentorship_eligibility.png?raw=true "Figure 2: Mentorship Eligibility")
 
 
@@ -53,11 +57,13 @@ In anticipation of the “silver tsunami” of baby boomer retirements, Pewlett 
 ### Retirement roles requiring replacement
 
 ![Fig3aA Retiring Employees](other_resources/3aA_total_retiring_employees_results.png)
+
 [Fig3aA: Total Retiring Employees](other_resources/3aA_total_retiring_employees_results.png?raw=true "Figure 3aA: Mentorship Eligibility")
 Figure 3aA shows that total employees retiring number 90,398.
 
 
 ![Fig3aB Retiring Employees Query](other_resources/3aB_total_retiring_employees.png)
+
 [Fig3aB: Total Retiring Employees](other_resources/3aB_total_retiring_employees.png?raw=true "Figure 3aB: Mentorship Eligibility")
 
 The query depicted in Figure 3aB generated this value, and is simply the sum of the count of employees by title.
@@ -68,22 +74,27 @@ The query depicted in Figure 3aB generated this value, and is simply the sum of 
 
 
 ![Fig3bA Mentorship Titles](other_resources/3bA_mentorship_titles.png)
+
 [Fig3bA: Total Retiring Employees](other_resources/3bA_mentorship_titles.png?raw=true "Figure 3bA: Mentorship Eligibility")
 
 
 ![Fig3bB Unique Mentorship Titles](other_resources/3bB_unique_mentorship_titles.png)
+
 [Fig3bB: Unique Mentorship Titles](other_resources/3bB_unique_mentorship_titles.png?raw=true "Figure 3bB: Unique Mentorship Titles")
 
 
 ![Fig3bC Only Mentorship Titles](other_resources/3bC_only_mentorship_titles.png)
+
 [Fig3bC: Only Mentorship Titles](other_resources/3bC_only_mentorship_titles.png?raw=true "Figure 3bC: Only Mentorship Titles")
 
 
 
 ![Fig3bDi Retirement v Mentorship by Title](other_resources/3bDi_retirement_v_mentorship_by_title.png)
+
 [Fig3bDi: Retirement v Mentorship by Title](other_resources/3bDi_retirement_v_mentorship_by_title.png?raw=true "Figure 3bDi: Retirement v Mentorship by Title")
 
 ![Fig3bDii Retirement v Mentorship by Title Results](other_resources/3bDii_retirement_v_mentorship_by_title_results.png)
+
 [Fig3bDii: Retirement v Mentorship by Title Results](other_resources/3bDii_retirement_v_mentorship_by_title_results.png?raw=true "Figure 3bDii: Retirement v Mentorship by Title: Results")
 
 
