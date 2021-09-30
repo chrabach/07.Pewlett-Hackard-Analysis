@@ -1,6 +1,6 @@
 # Pewlett-Hackard Analysis
 ## Resources
-pgAdmin 4, Python: 3.8.3, PostgreSQL 12.7
+pgAdmin 4, PostgreSQL 12.7
 
 ## Overview
 
